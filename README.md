@@ -12,11 +12,12 @@ Embedded C/Rust development • Bare-metal firmware • ARM-based microcontrolle
 
 ## **Education**
 
-- **Institute of Field Robotic (FIBO); King Mongkut's University of Technology Thonburi (KMUTT)**
+- **Institute of Field Robotics (FIBO); King Mongkut's University of Technology Thonburi (KMUTT)**
     
-    - Bachelor of Engineering: Field Robotic and automation system major  
+    - Bachelor of Engineering: Field robotics and Automation Engineering
     - GPA: 3.59 (Year 4 Semester 1) 
     - 2022 - Present 
+    - Expected graduation: May 2025
 
 - **Chitralada Vocational School**
 
@@ -24,14 +25,12 @@ Embedded C/Rust development • Bare-metal firmware • ARM-based microcontrolle
     - GPA: 3.97
     - 2019 - 2021
 
-## **Experience**
+## **Work Experience**
 
 - **Software engineer internship at National Astronomical Research Institute of Thailand(NARIT)**
 
-    - *Assigned task1:* Compile LibCSP within STM32CubeIDE to build software for STM32L4 series microcontroller with FreeRTOS
-    - *Task1 impact:* Allows LibCSP to seamlessly compile with STM32CubeIDE without using external compiler.
-    - *Assigned task2:* Create a prototype programmable logic in FPGA to read from a proprietary IP block using memory mapped IO to be accessed from processor system.
-    - *Task2 impact:* Prototype an interface from the proprietary IP block to FPGA's processor with theoretical 2 clock cycles per access.
+    - Setup STM32CubeIDE to compile LibCSP source code into a FreeRTOS project of STM32L4 using IDE's internal compiler, removing the need for external compiler.
+    - Implement a memory mapped IO to connect a proprietary IP block to FPGA's processor system, capable of 2 clock cycles per access between processor unit and IP block.
     - *Duration:* June 2025 - July 2025
 
 - **Teaching assistant in Electronic circuit class and Microcontroller interface class**
@@ -51,7 +50,7 @@ Embedded C/Rust development • Bare-metal firmware • ARM-based microcontrolle
     - *Duration:* March 2020
 
 ## **Project**
-- **Rust build tool with automated linking to C language code base implemented for Raspberry Pi Pico SDK | Bachelor degree thesis**
+- **Rust build tool with automated linking to C language code base implemented for Raspberry Pi Pico SDK | Senior project thesis**
     
     - *Project description:* Developed python-based build tool that enable Rust language to compile and integrated with existing C code base using original cmake file. Build tool provided binding to original C code and links exsiting C's heap allocation for Rust's memory allocator.  Developed and tested on Raspberry pi pico and its SDK.
     - *Project duration:* Since August 2025, in progress
