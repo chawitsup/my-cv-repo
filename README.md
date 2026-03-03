@@ -17,7 +17,7 @@ Embedded C/Rust development • Bare-metal firmware • ARM-based microcontrolle
     - Bachelor of Engineering: Field robotics and Automation Engineering
     - GPA: 3.59 (Year 4 Semester 1) 
     - 2022 - Present 
-    - Expected graduation: May 2025
+    - Expected graduation: June 2026
 
 - **Chitralada Vocational School**
 
